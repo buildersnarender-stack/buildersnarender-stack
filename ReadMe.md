@@ -1,0 +1,21 @@
+# 💫 About Me:
+👋 Hi, I'm Sandeep Saini!<br><br>🚀 Entrepreneur | Curious Learner | Builder | Technology Enthusiast<br><br>I'm an entrepreneur passionate about turning real-world problems into practical solutions using technology, innovation, and collaboration.<br><br>I'm exploring the intersection of business, technology, AI, automation, and digital entrepreneurship. I believe you don't need to know everything to start building — you just need curiosity, consistency, and a willingness to learn.<br><br>💡 What I'm Working On<br><br>- 🏗️ NorthBuild – Building a digital construction marketplace to connect builders, contractors, suppliers, and customers.<br>- 🚚 Bharat Move – Exploring smarter transportation and vehicle-utilization solutions.<br>- 🤖 AI & Automation – Learning how AI can simplify business operations and everyday work.<br>- 🌐 Digital Platforms – Experimenting with websites, apps, APIs, databases, and no-code/low-code tools.<br>- 📈 Entrepreneurship – Exploring new business models, startup ideas, and scalable opportunities.<br><br>🔍 My Interests<br><br>- Artificial Intelligence & Machine Learning<br>- Web and App Development<br>- Open Source & Community Building<br>- Startups and Entrepreneurship<br>- Business Automation<br>- FinTech and Digital Commerce<br>- Logistics and Supply Chain<br>- Learning new technologies<br><br>🤝 Let's Collaborate!<br><br>I'm always interested in connecting with:<br><br>- Developers and software engineers<br>- Startup founders and entrepreneurs<br>- AI enthusiasts and innovators<br>- Open-source contributors<br>- People who enjoy solving real-world problems<br><br>Whether it's sharing ideas, building projects, exchanging knowledge, or experimenting with something new, I'm open to collaboration.<br><br>📚 Currently Learning<br><br>- JavaScript & TypeScript<br>- React & Next.js<br>- Supabase & Databases<br>- Git & GitHub<br>- AI-powered applications<br>- APIs and automation<br><br>🎯 My Philosophy<br><br>"Don't wait until you know everything. Start building, learn along the way, and improve every day."<br><br>⚡ Fun Facts About Me<br><br>- I enjoy converting everyday business challenges into technology-driven ideas.<br>- I love exploring new tools, apps, and emerging technologies.<br>- I'm comfortable being a beginner if it means learning something valuable.<br>- I believe great ideas become greater when people collaborate.<br>- My goal is to build something useful, scalable, and impactful.<br><br>📬 Let's Connect<br><br>Open to learning, sharing ideas, and building something meaningful together!<br><br>⭐ Feel free to explore my repositories, share feedback, or collaborate on a project.
+
+
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Narender Builders) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:buildersnarender@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=buildersnarender-stack&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=buildersnarender-stack&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=buildersnarender-stack&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=buildersnarender-stack&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
